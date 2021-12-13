@@ -1,0 +1,11 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
